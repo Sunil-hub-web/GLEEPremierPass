@@ -1,4 +1,4 @@
-package com.example.qrcode;
+package com.gleepremierpass;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;

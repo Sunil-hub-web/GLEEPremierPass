@@ -1,4 +1,4 @@
-package com.example.qrcode;
+package com.gleepremierpass;
 
 import android.content.Context;
 import android.content.SharedPreferences;
